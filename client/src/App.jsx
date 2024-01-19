@@ -4,7 +4,7 @@ const App = () => {
 
   return (
     <>
-    <h1> Hello</h1>
+    <h1 className='bg-orange-500'> Hello</h1>
     </>
   )
 }
