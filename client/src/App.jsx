@@ -1,10 +1,13 @@
 import './App.css'
+import Forms from './components/Forms'
 
 const App = () => {
 
   return (
     <>
-    <h1 className='bg-orange-500'> Hello</h1>
+      <div>
+        <Forms/>
+      </div>
     </>
   )
 }
